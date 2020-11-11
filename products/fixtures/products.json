@@ -1,0 +1,26 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "Playera para caballero",
+        "description": "Playera para caballero",
+        "price": "10.00",
+        "slug": "playera-para-caballero",
+        "image": "products/playera-deportiva-para-caballero-D_NQ_NP_715965-MLV43189199554_082020-F.jpg",
+        "created_at": "2020-11-06T15:49:01.874Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Playera para dama",
+        "description": "Playera para dama",
+        "price": "10.00",
+        "slug": "playera-para-dama",
+        "image": "products/playera-dama.jpg",
+        "created_at": "2020-11-08T20:59:14.868Z"
+    }
+}
+]
